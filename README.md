@@ -8,7 +8,7 @@ React
 TypeScript
 Tailwind CSS
 
-Backend
+🚀 Backend
 Node.js
 Express
 TypeScript
